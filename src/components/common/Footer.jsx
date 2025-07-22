@@ -35,17 +35,17 @@ export default function Footer() {
                         <p className="text-gray-400 flex justify-center flex-wrap mb-2">Email : <a href="mailto:bhairavnathbhuse@gmail.com" className="text-gray-400  hover:text-blue-200 hover:underline"> bhairavnathbhuse@gmail.com</a></p>
                         <p className="text-gray-400 mb-2">Phone: <a href="tel:+91736976" className="text-gray-400 hover:text-blue-200">+91 73XX XX 6976</a></p>
                         <div className="flex space-x-4 flex-wrap gap-y-2 mt-4 justify-center">
-                            <a href='https://www.geeksforgeeks.org/user/bhairavnath_bhuse/' target='_blank' rel="noreferrer" className="text-gray-400 hover:text-white">
+                            <a href='https://www.geeksforgeeks.org/user/sohamHaridas/' target='_blank' rel="noreferrer" className="text-gray-400 hover:text-white">
                                 <SiLeetcode size={24} />
                             </a>
-                            <a href='https://github.com/Bhairavnath-Bhuse' target='_blank' rel="noreferrer" className="text-gray-400 hover:text-white">
+                            <a href='https://github.com/SohamHaridas' target='_blank' rel="noreferrer" className="text-gray-400 hover:text-white">
                                 <FaGithub size={24} />
                             </a>
-                            <a href='https://www.linkedin.com/in/bhairavnath-bhuse-740266231/' target='_blank' rel="noreferrer" className="text-gray-400 hover:text-white">
+                            <a href='https://www.linkedin.com/in/Soham-Haridas/' target='_blank' rel="noreferrer" className="text-gray-400 hover:text-white">
                                 <FaLinkedin size={24} />
                             </a>
                             
-                            <a href='https://www.instagram.com/_bhairu__20/' target='_blank' rel="noreferrer" className="text-gray-400 hover:text-white">
+                            <a href='https://www.instagram.com/soham.haridas/' target='_blank' rel="noreferrer" className="text-gray-400 hover:text-white">
                                 <FaInstagram size={24} />
                             </a>
                         </div>
